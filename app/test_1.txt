@@ -1,0 +1,3 @@
+Desvío estándar 15.952363461255521
+Media 2076
+tick:31

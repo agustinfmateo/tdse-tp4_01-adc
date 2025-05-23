@@ -1,0 +1,5 @@
+Desvío estándar: 1.9953946977979053
+Media: 2074
+tick: 118
+
+En esta tarea vemos que, además de tomar las muestras, las promedia en grupos de 16 muestras (AVERAGER_SIZE), por lo que el desvío de las muestras se ve reducido, en comparación a la tarea 1, en aproximadamente un 87%, pero debido a este promedio, se elevan los ticks necesarios para completar la tarea en un 280%. 

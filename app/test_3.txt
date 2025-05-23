@@ -1,0 +1,6 @@
+Desvío estándar: 7.92224084460956
+Media: 2074
+tick: 31
+
+Al igual que en el primer test no hace promedios y por lo tanto su rendimiento es similar.
+La diferencia es que este test utiliza interrupciones al finalizar cada una de las mediciones iniciando HAL_ADC_Start_IT(&hadc1) y llamando a HAL_ADC_ConvCpltCallback(). Por lo tanto el código no es bloqueante como la tarea 1.

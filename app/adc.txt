@@ -1,0 +1,1 @@
+Se utiliza el ADC1 de 12 bits, con un prescaler de /2 (quedando una frecuencia de 4MHz), usando como salida el pin PA0. Además está habilitado el NVIC para el manejo de interrupciones.
